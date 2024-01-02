@@ -3,18 +3,18 @@
             {
                 "ENV_NAME": "pr",
                 "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "",
+                "KEYVAULT_NAME": "kv-brbRG-PFLOW-DEMOailey115502864227",
                 "RESOURCE_GROUP_NAME": "",
-                "WORKSPACE_NAME": "",
+                "WORKSPACE_NAME": "pflow_demo",
                 "STANDARD_FLOW_PATH": "flows/math_standard_flow",
                 "EVALUATION_FLOW_PATH": "flows/math_evaluation_flow"
             },
             {
                 "ENV_NAME": "dev",
                 "RUNTIME_NAME": "",
-                "KEYVAULT_NAME": "",
+                "KEYVAULT_NAME": "kv-brbRG-PFLOW-DEMOailey115502864227",
                 "RESOURCE_GROUP_NAME": "",
-                "WORKSPACE_NAME": "",
+                "WORKSPACE_NAME": "pflow_demo",
                 "STANDARD_FLOW_PATH": "flows/math_standard_flow",
                 "EVALUATION_FLOW_PATH": "flows/math_evaluation_flow"
             }
